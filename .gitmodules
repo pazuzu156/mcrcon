@@ -1,0 +1,3 @@
+[submodule "RconLib"]
+	path = RconLib
+	url = https://github.com/Pazuzu156/RconLib.git
