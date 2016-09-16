@@ -1,4 +1,0 @@
-[submodule "SourceRcon"]
-	path = SourceRcon
-	url = https://github.com/Pazuzu156/SourceRcon.git
-	branch = dev
