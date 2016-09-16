@@ -1,7 +1,7 @@
 # mcrcon License Terms
 mcrcon is licensed under the GNU GPL version 2 license. Any code pertaining to mcrcon alone is subject under those licensing conditions
 
-SourceRcon is licensed under the BSD Clause-2 license. Any code pertaining to SourceRcon is subject under those licensing conditions. For your convenience, and as per the terms of the library author, this license is included with the source and distribution of mcrcon.
+SourceRcon is licensed under the BSD 2-Clause license. Any code pertaining to SourceRcon is subject under those licensing conditions. For your convenience, and as per the terms of the library author, this license is included with the source and distribution of mcrcon.
 
 ## mcrcon
 mcrcon is licensed under the GNU GPL version 2 license, as outlined below:
@@ -96,7 +96,7 @@ END OF TERMS AND CONDITIONS
 ```
 
 ## SourceRcon
-SourceRcon is licensed under the BSD Clause-2 license, as outlined below:
+SourceRcon is licensed under the BSD 2-Clause license, as outlined below:
 
 ```
 Copyright (c) 2008, Andrew Simpson
@@ -115,4 +115,4 @@ THIS SOFTWARE IS PROVIDED BY THE COPYRIGHT HOLDERS AND CONTRIBUTORS "AS IS" AND 
 If for some reason the licenses are not rendering, or you wish to obtain a copy of them for yourself, links for both are provided below for your convenience.
 
 [GNU GPL v2 License](https://www.gnu.org/licenses/gpl-2.0.html)  
-[BSD Clause-2 License](https://opensource.org/licenses/bsd-license.php)
+[BSD 2-Clause License](https://opensource.org/licenses/bsd-license.php)

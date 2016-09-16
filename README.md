@@ -7,7 +7,7 @@ SourceRcon is a C# library made to interface with servers that implement the Val
 ## Licensing
 mcrcon is licensed under the GNU GPL v2 license as laid out in [LICENSE.md](https://github.com/pazuzu156/mcrcon/blob/master/LICENSE.md).
 
-SourceRcon is licensed under the BSD Clause-2 license as laid out in the same license file as above.
+SourceRcon is licensed under the BSD 2-Clause license as laid out in the same license file as above.
 
 ## Building
 mcrcon is built using Visual Studio 2013 utilizing .NET 4.5 framework. SourceRcon uses an older VS version and an older version of the .NET framework. However, opening mcrcon.sln in VS2013 will automatically update the SourceRcon library to the latest solution format supported by VS2013. 
