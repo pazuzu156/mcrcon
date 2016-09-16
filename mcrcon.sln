@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mcrcon", "mcrcon\mcrcon.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SourceRconLib", "SourceRcon\SourceRconLib\SourceRconLib.csproj", "{6F184EA5-616C-4A08-AADE-4B171F4BBDA0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UniversalControls", "UniversalControlsXAML\src\UniversalControls.csproj", "{7E7229DD-C354-4BCF-B883-6A2CC08009F3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{6F184EA5-616C-4A08-AADE-4B171F4BBDA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F184EA5-616C-4A08-AADE-4B171F4BBDA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F184EA5-616C-4A08-AADE-4B171F4BBDA0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E7229DD-C354-4BCF-B883-6A2CC08009F3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E7229DD-C354-4BCF-B883-6A2CC08009F3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E7229DD-C354-4BCF-B883-6A2CC08009F3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E7229DD-C354-4BCF-B883-6A2CC08009F3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

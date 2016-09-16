@@ -2,3 +2,6 @@
 	path = SourceRcon
 	url = https://github.com/aiusepsi/SourceRcon
 	branch = dev
+[submodule "UniversalControlsXAML"]
+	path = UniversalControlsXAML
+	url = https://github.com/pazuzu156/UniversalControlsXAML

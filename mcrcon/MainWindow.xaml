@@ -1,0 +1,31 @@
+﻿<Window x:Class="mcrcon.MainWindow"
+		xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+		xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+		Closing="Window_Closing"
+		Title="MainWindow"
+		Height="300"
+		Width="300"
+		WindowStartupLocation="CenterScreen">
+	<Grid>
+		<TextBlock HorizontalAlignment="Left"
+				   Margin="28,45,0,0"
+				   TextWrapping="Wrap"
+				   Text="This button is temporary. For testing!"
+				   VerticalAlignment="Top" />
+		<Button Content="Send Message!"
+				Name="bSend"
+				HorizontalAlignment="Left"
+				Margin="65,118,0,0"
+				VerticalAlignment="Top"
+				Width="123"
+				Click="bSend_Click" />
+		<Button Content="Stop Server"
+				Name="bStop"
+				HorizontalAlignment="Left"
+				Margin="78,179,0,0"
+				VerticalAlignment="Top"
+				Width="101"
+				Click="bStop_Click" />
+
+	</Grid>
+</Window>
